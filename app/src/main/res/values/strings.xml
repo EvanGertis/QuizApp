@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Quiz_Application</string>
+
+    <string name="T1_Question">What type of progamming language is java?.</string>
+    <string name="T1_Ans1">Compiled.</string>
+    <string name="T2_Ans2">Interpreted.</string>
+
 </resources>
